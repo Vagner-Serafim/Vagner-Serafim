@@ -6,10 +6,8 @@
 ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 
-
 ###
-
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vagner-Serafim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
